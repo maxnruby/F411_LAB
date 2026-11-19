@@ -1,4 +1,4 @@
-## STEP02 - 초음파 거리 측정
+## 초음파 거리 측정
 
   - STM32CUBEIDE로 코드 작성
    
@@ -38,7 +38,8 @@
   -g_trace_trig_edge 변수 만들어서 비교해보기
 <img width="1172" height="744" alt="image" src="https://github.com/user-attachments/assets/be4956e0-8312-48b3-80a3-5bc1fb70aa29" />
 <br><br>
----
+
+
 ## F411_LAB 초음파 + 온습도(DHT) 정확도 개선 작업
 
   - 거리측정 및 온습도 출력 확인

@@ -36,6 +36,7 @@
 <br><br>
 
   - g_trace_trig_edge 변수 만들어서 비교해보기
+    
 <img width="1172" height="744" alt="image" src="https://github.com/user-attachments/assets/be4956e0-8312-48b3-80a3-5bc1fb70aa29" />
 <br><br>
 
@@ -55,6 +56,6 @@
 <br><br>
 
   - SWV / 트레이스 관찰
-  - 
+    
 <img width="974" height="687" alt="image" src="https://github.com/user-attachments/assets/256f0af7-a455-4647-9c8d-7a5234ce7e7d" />
 <br><br>

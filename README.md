@@ -40,8 +40,7 @@
 <br><br>
 
 
-## F411_LAB 초음파 + 온습도(DHT) 정확도 개선 작업
-
+## F411_LAB 초음파 + 온습도(DHT)
   - 핀/타이머 매핑
 
 <img width="631" height="318" alt="image" src="https://github.com/user-attachments/assets/1dad4e6e-e9d9-48b2-93f8-47f46f1c588c" />

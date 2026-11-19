@@ -35,7 +35,7 @@
 <img width="921" height="633" alt="image" src="https://github.com/user-attachments/assets/f7cb87b3-5477-458b-a413-1244f5729b3f" />
 <br><br>
 
-  -g_trace_trig_edge 변수 만들어서 비교해보기
+  - g_trace_trig_edge 변수 만들어서 비교해보기
 <img width="1172" height="744" alt="image" src="https://github.com/user-attachments/assets/be4956e0-8312-48b3-80a3-5bc1fb70aa29" />
 <br><br>
 

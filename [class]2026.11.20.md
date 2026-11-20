@@ -31,3 +31,15 @@
   - PC에서 TFLite 모델 추론 및 검증
     
 <img width="636" height="199" alt="image" src="https://github.com/user-attachments/assets/a526c781-54b3-4d03-89ef-459ce9b2db21" />
+<br><br>
+
+  - 시각화: PC 모델 vs TFLite 모델 결과 비교
+
+<img width="689" height="414" alt="image" src="https://github.com/user-attachments/assets/a12b355a-b10c-434e-9d34-7b7801171c34" />
+<br><br>
+
+  - 최종비교: 모델 크기 / 추론 시간 / 정확도 비교
+    
+<img width="654" height="292" alt="image" src="https://github.com/user-attachments/assets/79a125ed-3007-4686-801b-4940f773abfc" />
+<br><br>
+

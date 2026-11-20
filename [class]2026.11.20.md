@@ -9,6 +9,6 @@
 
  - 오실로스코프로 확인
    
-<img width="846" height="658" alt="image" src="https://github.com/user-attachments/assets/f7e4e5d4-784d-4e57-a2bb-10e557bdac57"   height="20">
+<img width="846" height="658" alt="image" src="https://github.com/user-attachments/assets/f7e4e5d4-784d-4e57-a2bb-10e557bdac57" height="20">
 
-<img width="802" height="661" alt="image" src="https://github.com/user-attachments/assets/9481515e-bcdf-44cf-860f-44920553c37b"   height="20">
+<img width="802" height="661" alt="image" src="https://github.com/user-attachments/assets/9481515e-bcdf-44cf-860f-44920553c37b" height="20">

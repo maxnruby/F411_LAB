@@ -4,7 +4,7 @@
 
   - 시리얼로 확인
     
-<img src="https://github.com/user-attachments/assets/ac7f44a7-5e77-440f-b4bd-24629f15344f" width="500">
+<img src="https://github.com/user-attachments/assets/ac7f44a7-5e77-440f-b4bd-24629f15344f" width="700">
  <br><br>
 
  - 오실로스코프로 확인
@@ -19,6 +19,6 @@
 
   - 실습 결과
     
-<img src="https://github.com/user-attachments/assets/11efcee9-e179-43b4-8f51-1f983ae75f32" height="400">
-<img src="https://github.com/user-attachments/assets/0f486a20-303b-4692-b0fb-92ce0134b7d6" height="400">
+<img src="https://github.com/user-attachments/assets/11efcee9-e179-43b4-8f51-1f983ae75f32" width="700">
+<img src="https://github.com/user-attachments/assets/0f486a20-303b-4692-b0fb-92ce0134b7d6" width="700">
 <br><br>

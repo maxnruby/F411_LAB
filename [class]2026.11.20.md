@@ -20,7 +20,5 @@
   - 실습 결과
     
 <img src="https://github.com/user-attachments/assets/11efcee9-e179-43b4-8f51-1f983ae75f32" width="450">
-<br><br>
-
 <img src="https://github.com/user-attachments/assets/0f486a20-303b-4692-b0fb-92ce0134b7d6" width="450">
 <br><br>

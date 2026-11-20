@@ -22,3 +22,12 @@
 <img src="https://github.com/user-attachments/assets/11efcee9-e179-43b4-8f51-1f983ae75f32" width="700">
 <img src="https://github.com/user-attachments/assets/0f486a20-303b-4692-b0fb-92ce0134b7d6" width="700">
 <br><br>
+
+  - TFLite 변환 및 양자화
+   
+<img src="https://github.com/user-attachments/assets/a6a7f080-7682-4f17-99d3-902e283966c0" width="700"/>
+<br><br>
+
+  - PC에서 TFLite 모델 추론 및 검증
+    
+<img width="636" height="199" alt="image" src="https://github.com/user-attachments/assets/a526c781-54b3-4d03-89ef-459ce9b2db21" />

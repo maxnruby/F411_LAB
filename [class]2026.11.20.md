@@ -43,3 +43,22 @@
 <img width="654" height="292" alt="image" src="https://github.com/user-attachments/assets/79a125ed-3007-4686-801b-4940f773abfc" />
 <br><br>
 
+  - *결론: TinyML이 필요한 이유*
+
+1. 모델 크기 (Memory)
+
+   PC: 427KB → MCU: 115KB
+   
+   양자화만으로 73%로 줄일 수 있다.
+
+2. 추론 속도 (Latency)
+   
+   Float32: 0.011ms → Int8: 0.006ms
+   
+   정수 연산이 실수보다 빠르다.
+
+3. 정확도 (Accuracy)
+
+   97.16% → 97.15% (손실 단 0.01%p)
+
+   현저한 성능 저하 없이 경량화가 가능하다.
